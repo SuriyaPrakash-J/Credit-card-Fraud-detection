@@ -3,6 +3,7 @@
 
 
 # 📌 Description
+
 This project is a machine learning-based solution for detecting fraudulent credit card transactions. It uses a real-world dataset and explores various techniques including data preprocessing, feature selection, handling imbalanced data, and model evaluation. The notebook demonstrates how machine learning can be leveraged to improve security and prevent financial fraud.
 
 
